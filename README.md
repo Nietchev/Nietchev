@@ -18,6 +18,6 @@ Check my profile in details 👉 HERE
         1. Rework old code .... gasp
         2. Switch to Rust for more complex project (see 1)
         3. Code a transformer because the results are impressive and why not !
-        4. Not sure after the data science bootcamps, what inspiration I will get and which path I will move on... will see :)
+        4. Not sure after the data science bootcamps, what inspiration I will get and which path I will move on...
 
     🤔 I’m looking for help with almost everthing I don't understand, and a job
