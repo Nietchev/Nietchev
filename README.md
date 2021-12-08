@@ -8,8 +8,8 @@ Check my profile in details 👉 HERE
 
     🔭 I’m currently working on
        Beerly : an App for beer recommendation, with an unsupervised and a collaborative recommendation system.
-       hosted on google cloud service, for beer recommendation.
-
+       hosted on google cloud service.
+       
     🌱 I’m currently learning
         Rust, because sometimes you just have to compile
         Sparks, AWS 
