@@ -2,7 +2,7 @@ Hi,
 
 I am Cosme, a Data/Geo - scientist from @Le Wagon winter bootcamp #722
 
-I was head of enginneering in Oil and Gas for 11 years before jumping the ship and. 
+I was head of enginneering in Oil and Gas for 11 years before jumping the ship and coming back to my roots : Code ans Stats. 
 Check my profile in details 👉 HERE
 
 
